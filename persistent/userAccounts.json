@@ -1,0 +1,18 @@
+{
+	"Visqosity": {
+		"type": "3",
+		"password": "ThisIsAPassword"
+	},
+	"MiniCoder11": {
+		"type": "3",
+		"password": "Testing123"
+	},
+	"I8D": {
+		"type": "3",
+		"password": "password"
+	},
+	"Test": {
+		"type": "3",
+		"password": "Test"
+	}
+}

@@ -1,0 +1,17 @@
+{
+  "name": "BlueOS-Node-Backend",
+  "version": "1.0.0",
+  "description": "The goal of this Repl is to provide a reliable, self-sustaining database system that can be hosted from any browser and still manage to support all Blue OS users at high speeds from a number of connection points.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "node-scratch-client": "^1.3.7"
+  }
+}
